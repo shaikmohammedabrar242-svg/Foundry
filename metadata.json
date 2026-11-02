@@ -1,0 +1,6 @@
+{
+  "name": "Foundry - Minimalist SaaS Launch & Discovery",
+  "description": "A refined, minimalist editorial platform for indie hackers and SaaS founders to launch products, reach early adopters, and track real engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
